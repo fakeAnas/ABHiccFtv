@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/File:Star_Sports_Network.png” group-title=”SPORTS”, StarsportsSelect1hd
+http://10.16.100.206:8080/hls/StarsportsSelect1hd.m3u8
